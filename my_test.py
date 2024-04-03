@@ -1,4 +1,5 @@
 # Inference for ONNX model
+import os # added by me; 간단한 개발 또는 편집이면 여기서 해도 되고,, 그렇지 않으면 로컬에서 
 
 import cv2
 cuda = True
