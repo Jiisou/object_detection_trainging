@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
+'''modified by student, Jang. 2024. 04. 17 
+(during lecture oss 24-spring)'''
 
 import os
 import glob

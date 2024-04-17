@@ -2,6 +2,9 @@ import os
 import glob
 import cv2
 
+'''modified by student, Jang. 2024. 04. 17 
+(during lecture oss 24-spring)'''
+
 if __name__ == "__main__":
     import argparse
 
